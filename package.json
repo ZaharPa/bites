@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch --env-file .env index.tx",
+    "dev": "tsx watch --env-file .env index.ts",
     "build": "tsc",
     "start": "node --env-file .env dist/index.js"
   },
