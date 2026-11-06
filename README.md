@@ -1,6 +1,6 @@
 
 
-# Bites — Restaurant API
+# Bites - Restaurant API
 
 A REST API for managing restaurants and customer reviews, built with Node.js, Express, TypeScript and Redis.
 
